@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ImageProcessorPythonApp", "ImageProcessorPythonApp\ImageProcessorPythonApp.pyproj", "{C510422D-8C3F-424D-8F93-C61A83EAA1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C510422D-8C3F-424D-8F93-C61A83EAA1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C510422D-8C3F-424D-8F93-C61A83EAA1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0FC773-D5F7-4BD7-BE82-B131F3F1A9F5}
+	EndGlobalSection
+EndGlobal
